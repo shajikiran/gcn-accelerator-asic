@@ -1,0 +1,16 @@
+build/
+obj_dir/
+waves/
+*.vcd
+*.fst
+*.fsdb
+*.vvp
+*.log
+*.jou
+*.zip
+*.gds
+*.def
+*.db
+*.enc.dat/
+*.wdb
+*.pb
